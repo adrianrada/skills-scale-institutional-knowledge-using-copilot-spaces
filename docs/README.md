@@ -17,8 +17,12 @@ At OctoAcme, we believe in an **iterative, evidence-driven approach** to project
 ### Clear Ownership
 Every project has defined roles with clear responsibilities:
 - **Project Manager (PM)**: Coordinates delivery, schedules, risks, and communications
-- **Product Lead (PdM)**: Defines outcomes, prioritizes backlog, and measures success
+- **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
 - **Delivery Team**: Implements features, collaborates on design, and ensures quality
+- **Specialized Roles**: Scrum Master, QA Lead, UX Designer, Technical Writer, DevOps Engineer
+- **Leadership**: Stakeholders and Sponsors provide strategic guidance and support
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed role definitions and collaboration points.
 
 ### Regular Stakeholder Alignment
 - Weekly syncs between PM and Product Lead
@@ -59,16 +63,20 @@ Explore our comprehensive project management guides:
 
 ### Supporting Documentation
 
-- **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed role definitions and responsibilities
+- **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed role definitions and responsibilities for all team members
+- **[Collaboration & Hand-off Guide](octoacme-collaboration-handoff-template.md)** - Best practices for cross-functional collaboration and deliverable hand-offs
+- **[Team Onboarding Checklist](octoacme-team-onboarding-checklist.md)** - Role-specific onboarding guidance for new team members
 
 ## Getting Started
 
 New to OctoAcme project management? We recommend reading the documents in this order:
 
 1. Start with the **Project Management Overview** to understand our core principles
-2. Review **Roles and Personas** to understand team structure
-3. Follow the lifecycle guides in order: **Initiation** → **Planning** → **Execution & Tracking** → **Release & Deployment** → **Retrospective**
-4. Refer to **Risk Management & Communication** throughout the project lifecycle
+2. Review **Roles and Personas** to understand team structure and your role
+3. Check the **Team Onboarding Checklist** for role-specific onboarding tasks
+4. Review the **Collaboration & Hand-off Guide** to understand cross-functional workflows
+5. Follow the lifecycle guides in order: **Initiation** → **Planning** → **Execution & Tracking** → **Release & Deployment** → **Retrospective**
+6. Refer to **Risk Management & Communication** throughout the project lifecycle
 
 ## Using These Docs
 
